@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html, body {
+    margin: 0%;
+}
+
+.frame {
+    background-color: rgb(225, 225, 225);
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20px;
+    border-radius: 0.8em;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.metalic{
+    background-color: rgb(143, 153, 158);
+    height: 50px;
+    margin: 0%;
+    width: 100%;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+select, button {
+    border-radius: 5px;
+    background-color: aliceblue;
+    border: 0px;
+    margin-left: 5%;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+}
